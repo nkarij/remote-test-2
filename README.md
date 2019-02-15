@@ -21,6 +21,7 @@
 15) TRACK filen -> git add readme.md
 16) tjek mappens status -> git status
 17) COMMIT filen -> git commit -m "add README.md" 
-18) Når du har lavet ændringer i README filen opdateres det med -> code .
-19) UNTRACK/UNSTAGE filen -> git reset README.md
+18) åbn filen med -> code .
+19) Når du har lavet ændringer i README filen opdateres det også med -> code .
+20) UNTRACK/UNSTAGE filen -> git reset README.md
 
