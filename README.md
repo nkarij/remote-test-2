@@ -22,3 +22,5 @@
 16) tjek mappens status -> git status
 17) COMMIT filen -> git commit -m "add README.md" 
 18) Når du har lavet ændringer i README filen opdateres det med -> code .
+
+BUSSEMAND!!!
